@@ -1,1 +1,1 @@
-# Analisis_Dise-o_Codificaci-n_Pruebas
+Analisis_Diseno_Codificacion_Pruebas
